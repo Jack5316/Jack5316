@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jack5316</h1>
+<h3 align="center">Welcome to my GitHub Profile!</h3>
 
-<!--
-**Jack5316/Jack5316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🌱 I'm currently working on my projects and expanding my skills
+- 💬 Feel free to reach out and connect!
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jack5316&show_icons=true&theme=default" alt="Jack5316's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jack5316" alt="Jack5316's streak stats"/>
+</p>
+
+### 🔧 Technologies & Tools
+<!-- You can customize these badges from https://shields.io/ -->
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
+
+### 📫 How to reach me:
+- GitHub: [@Jack5316](https://github.com/Jack5316)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jack5316" alt="Profile views"/>
+</p>
