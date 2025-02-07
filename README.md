@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jack5316</h1>
+<h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">Welcome to my GitHub Profile!</h3>
 
 ### About Me
-- 🌱 I'm currently working on my projects and expanding my skills
+- 🌱 I'm currently a Msc Computer Science student@University College London (UCL)
 - 💬 Feel free to reach out and connect!
 
 ### 📊 GitHub Stats
