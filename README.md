@@ -47,11 +47,11 @@ I'm enthusiastic about using advanced technology to boost productivity and quali
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jack5316&show_icons=true&theme=default" alt="Jack5316's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jack5316&show_icons=true&theme=dark" alt="Jack5316's GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jack5316" alt="Jack5316's streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jack5316&theme=dark" alt="Jack5316's streak stats"/>
 </p>
 
 ### 📫 How to reach me:
