@@ -152,7 +152,7 @@ jiawei = {
 
 <div align="center">
   <a href="https://github.com/Jack5316">
-    <img src="https://img.shields.io/badge/GitHub-@Jack5336-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-@Jack5316-181717?style=for-the-badge&logo=github"/>
   </a>
 </div>
 
