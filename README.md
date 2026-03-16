@@ -136,13 +136,13 @@ jiawei = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jack5336&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack5336&layout=compact&langs_count=8&theme=github_dark&border_color=30363d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jack5316&show_icons=true&theme=github_dark&border_color=30363d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack5316&layout=compact&langs_count=8&theme=github_dark&border_color=30363d"/>
 </div>
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jack5336&theme=github-dark-blue&border=30363d" alt="Streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jack5316&theme=github-dark-blue&border=30363d" alt="Streak stats"/>
 </div>
 
 
@@ -151,7 +151,7 @@ jiawei = {
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/Jack5336">
+  <a href="https://github.com/Jack5316">
     <img src="https://img.shields.io/badge/GitHub-@Jack5336-181717?style=for-the-badge&logo=github"/>
   </a>
 </div>
