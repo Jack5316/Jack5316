@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e2042,100:0d1117&height=200&section=header&text=Jiawei%20Fan&fontSize=56&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=CS%20%40%20UCL%20%7C%20PKM%20Enthusiast%20%7C%20Philosophy%20%26%20Tech&descAlignY=58&descColor=8b949e" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,19,24,30&height=180&section=header" alt="header"/>
 </div>
 
 
+<h1 align="center">Hi 👋, I'm Jiawei</h1>
+<h3 align="center">CS @ UCL &nbsp;·&nbsp; PKM Enthusiast &nbsp;·&nbsp; Philosophy & Tech</h3>
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Personal+AI+Infrastructure;Knowledge+Management+Enthusiast;Hardware+%E2%86%92+Software+Engineer;Philosophy+Reader+%26+Deep+Thinker" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Personal+AI+Infrastructure;Knowledge+Management+Enthusiast;Hardware+to+Software+Engineer;Philosophy+Reader+%26+Deep+Thinker" alt="Typing SVG"/>
 </div>
 
 
@@ -157,6 +158,6 @@ jiawei = {
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=120&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A21262d%2C50%3A161b22%2C100%3A0d1117&height=120&section=footer" alt="footer"/>
 </div>
 
